@@ -1,78 +1,71 @@
-# Shubham Panwar 🚀
+# Hi, I'm Shubham Panwar 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full-stack+%26+Systems+Dev;ECE+@+IIIT+Bhopal;React+·+Node+·+Mongo+·+Redis" alt="Typing..."/>
 
-Student • Full-Stack & Systems Developer • IIIT Bhopal  
-**B.Tech — Electronics & Communication Engineering (CGPA: 9.12)**
-
-[📧 2026shubhampanwar@gmail.com](mailto:2026shubhampanwar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubham-panwar-0a471324a/) · [GitHub](https://github.com/shubham043p) · [Codolio](https://codolio.com/profile/shubham043)
-
----
-
-## About me
-I’m a final-year ECE undergrad at IIIT Bhopal with a passion for building scalable web apps, real-time systems, and ML/AI-enabled solutions. I focus on clean, performant full-stack implementations (React + Node + Mongo), with attention to UX and backend reliability. I enjoy competitive programming and system design challenges.
+<p align="center">
+  <a href="https://github.com/shubham043p"><img src="https://img.shields.io/github/followers/shubham043p?label=Follow&style=social" alt="Follow"></a>
+  <a href="mailto:2026shubhampanwar@gmail.com"><img src="https://img.shields.io/badge/Email-2026shubhampanwar@gmail.com-blue?logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shubham-panwar-0a471324a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubham043p.shubham043p" alt="visitors"/>
+</p>
 
 ---
 
-## Key Skills
-- **Languages:** C, C++, JavaScript  
-- **Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap  
-- **Backend / DB:** Node.js, Express, MongoDB, Redis  
-- **Other:** WebSockets, Stripe integration, Cloud deployment, Git
+## ✨ Quick Snapshot
+**Full-stack & Systems developer** — I build fast, reliable, real-time web apps and love squeezing performance out of systems.  
+`React · Node.js · Express · MongoDB · Redis · WebSockets · Tailwind`
 
 ---
 
-## Selected Projects
+## 🔭 Featured Projects
+- **Chat App** — Real-time messaging with WebSockets, React frontend, Node backend.  
+  → `github.com/shubham043p/Chat-App`
+- **BuyBuzz (E-commerce)** — Catalog, cart, Stripe payments, Redis caching.  
+  → `github.com/shubham043p/BuyBuzz`
+- **Todo App** — Tiny, polished CRUD app with React hooks & responsive UI.  
+  → `github.com/shubham043p/Todo-App`
 
-### 🔹 Chat Application  
-**Tech:** React, Node.js, Express, Tailwind CSS, WebSockets, MongoDB  
-- Real-time chat with WebSocket-based bi-directional messaging.  
-- Achieved message delivery latency \< 100ms and stable performance.  
-- Deployed and production-ready.  
-- Repo & Demo: https://github.com/shubham043p/Chat-App · https://chat-app-k933.onrender.com/
-
-### 🔹 BuyBuzz — E-commerce Website  
-**Tech:** React, Node.js, Express, MongoDB, Redis, Stripe  
-- Full-stack e-commerce with product catalog, search, cart, orders, admin dashboard.  
-- Integrated Stripe for payments; used Redis for caching and session performance (40% load-time improvement).  
-- Repo: https://github.com/shubham043p/BuyBuzz
-
-### 🔹 Todo App  
-**Tech:** HTML, CSS, JavaScript, React  
-- Clean task CRUD app using React hooks and responsive UI.  
-- Repo & Demo: https://github.com/shubham043p/Todo-App · https://todo-app-mjxc.vercel.app/
-
-(For setup & run instructions, see each project’s README — most follow: `git clone` → `npm install` → `npm run start`)
+*(Replace the links above with full URLs or repo badges if you want inline cards.)*
 
 ---
 
-## Achievements & CP
-- Codeforces rating: **1229 (Pupil)** — profile: https://codeforces.com/profile/albatrosh  
-- **400+ problems** solved on LeetCode — https://leetcode.com/u/albatrosh/  
-- **3rd place** — Hack-O-Sprint 2.0 (SIH 2024 internal hackathon)
+## 🛠️ Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="Mongo"/>
+  <img src="https://img.shields.io/badge/Redis-D32A2A?logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
-## Education
-**Indian Institute of Information Technology, Bhopal**  
-B.Tech — Electronics and Communication Engineering (Nov 2022 – Jul 2026) · CGPA: **9.12**
+## 🧾 Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham043p&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham043p&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham043p&theme=radical&row=1&column=3" alt="Trophies" />
+</p>
 
 ---
 
-## How to contribute / get in touch
-If you'd like to collaborate, open an issue, or suggest improvements:
-1. Fork the repo  
-2. Create a feature branch `feat/your-feature`  
-3. Open a PR with a clear description and screenshots (if UI changes)  
-
-Prefer direct contact? Email: [2026shubhampanwar@gmail.com](mailto:2026shubhampanwar@gmail.com) · Phone: +91-93020-26305
+## 🚀 What I’m into
+- Building **real-time systems** (chats, live dashboards)  
+- Performance tuning: caching, DB indexes, efficient queries  
+- Clean UI & UX with Tailwind + React  
+- Competitive programming & system design practice
 
 ---
 
-## Links
-- Resume / CV (drive): https://drive.google.com/file/d/1QT_3dE0abzhhYCtSJtiWCdETwsqAvvwt/view?usp=drive_link  
-- GitHub: https://github.com/shubham043p  
-- LinkedIn: https://www.linkedin.com/in/shubham-panwar-0a471324a/  
-- Codolio: https://codolio.com/profile/shubham043
+## 📫 Contact
+Email: **2026shubhampanwar@gmail.com** · Phone: **+91-93020-26305**  
+LinkedIn: https://www.linkedin.com/in/shubham-panwar-0a471324a/ · GitHub: https://github.com/shubham043p
 
 ---
 
-> Built with ❤️ by Shubham.  
+<p align="center">
+  <strong>Like this README?</strong> ⭐️ star a repo, follow, or open an issue to collab — I reply fast!
+</p>
