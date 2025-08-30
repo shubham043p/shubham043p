@@ -1,4 +1,4 @@
-# Hi, I'm Shubham Panwar 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full-stack+%26+Systems+Dev;ECE+@+IIIT+Bhopal;React+·+Node+·+Mongo+·+Redis" alt="Typing..."/>
+# Hi, I'm Shubham Panwar 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=700&lines=Full-stack+%26+Systems+Dev;ECE+@+IIIT+Bhopal;React+·+Node+·+Express+·+Mongo+·+Redis" alt="Typing..."/>
 
 <p align="center">
   <a href="https://github.com/shubham043p"><img src="https://img.shields.io/github/followers/shubham043p?label=Follow&style=social" alt="Follow"></a>
@@ -16,14 +16,14 @@
 ---
 
 ## 🔭 Featured Projects
-- **Chat App** — Real-time messaging with WebSockets, React frontend, Node backend.  
+- **Chat App** — Real-time messaging with WebSockets, React frontend, **Express + Node** backend.  
   → `github.com/shubham043p/Chat-App`
-- **BuyBuzz (E-commerce)** — Catalog, cart, Stripe payments, Redis caching.  
+- **BuyBuzz (E-commerce)** — Catalog, cart, Stripe payments, **Express** APIs, Redis caching.  
   → `github.com/shubham043p/BuyBuzz`
-- **Todo App** — Tiny, polished CRUD app with React hooks & responsive UI.  
+- **Todo App** — Tiny, polished CRUD app with React hooks & responsive UI; simple **Express** backend for persistence.  
   → `github.com/shubham043p/Todo-App`
 
-*(Replace the links above with full URLs or repo badges if you want inline cards.)*
+
 
 ---
 
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="Mongo"/>
   <img src="https://img.shields.io/badge/Redis-D32A2A?logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind"/>
@@ -66,6 +67,4 @@ LinkedIn: https://www.linkedin.com/in/shubham-panwar-0a471324a/ · GitHub: https
 
 ---
 
-<p align="center">
-  <strong>Like this README?</strong> ⭐️ star a repo, follow, or open an issue to collab — I reply fast!
-</p>
+
